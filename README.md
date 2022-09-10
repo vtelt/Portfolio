@@ -15,6 +15,8 @@ My name is Viktoriia Teltova. I am Manual QA. I have experience in manual testin
 * SoapUI, Postman
 * PyCharm
 * Eclipse
+* HP Quality Center
+* Jenkins
 
 ## Tech skills
 * SQL
