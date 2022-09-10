@@ -1,6 +1,7 @@
 # Portfolio
 
 ## About me
+I am Manual QA with 6 years of experience in the QA area. Experience in manual testing of web application, test design and review of specifications. Have experience in Soap UI, SVN, JIRA, HP Quality Center, Jenkins, Postman, SQL. Now I am interesting in automation.  
 
 ## Courses and Trainings
 * Dare IT Portfolio Challenge
