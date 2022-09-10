@@ -23,7 +23,7 @@ My name is Viktoriia Teltova. I am Manual QA. I have experience in manual testin
 * HTML/CSS
 * Java
 * Python
-* Creating test cases
+* Test Design
 * Reporting bugs
 * Robot Framework
 * OOP
