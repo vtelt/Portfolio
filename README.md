@@ -10,7 +10,7 @@ My name is Viktoriia Teltova. I am Manual QA. I have experience in manual testin
 ## Tools
 * Jira
 * Git, GitHub
-* MySQL
+* Toad
 * Selenium WebDriver
 * SoapUI, Postman
 * PyCharm
